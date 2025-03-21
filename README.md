@@ -1,5 +1,5 @@
 # **Mac Move Mouse** 🖱️  
-A simple macOS app that moves your mouse automatically to keep your status **active** on Microsoft Teams—because sometimes, managers value **"online"** more than actual work.  
+A simple Mac automation that keeps your Microsoft Teams status active by moving your mouse—perfect for dealing with a toxic manager who expects you to be online 24/7.
 
 ## **🚀 How It Works**  
 This script **moves your mouse** periodically to prevent Teams from marking you as **"Away."**  
@@ -72,4 +72,4 @@ Instead of running the script manually, we’ll **turn it into a Mac app** so yo
 ---
 
 ## **⚠️ Disclaimer**  
-This is for **educational purposes only.** If your manager **judges productivity by an "active" status,** maybe it's time to look for a better job. 😆  
+This project is for **educational purposes only**. Use it responsibly and don’t get fired. 😆
