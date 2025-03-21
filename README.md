@@ -1,4 +1,4 @@
-# **ToxicManagerSaver** 🖱️  
+# **Mac Move Mouse** 🖱️  
 A simple macOS app that moves your mouse automatically to keep your status **active** on Microsoft Teams—because sometimes, managers value **"online"** more than actual work.  
 
 ## **🚀 How It Works**  
